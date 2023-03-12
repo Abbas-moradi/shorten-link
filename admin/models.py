@@ -4,7 +4,7 @@ from logs import log_prog
 class Users:
 
     _login = {}
-    path = 'D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\storage\dbregister'
+    path = 'storage\dbregister'
 
     def __init__(self, user_name, password):
         self.user_name = user_name

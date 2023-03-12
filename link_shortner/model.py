@@ -5,7 +5,7 @@ import re
 
 class Shorten:
 
-    path = 'D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\storage\shorten'
+    path = 'storage\shorten'
 
     def __init__(self, link, short_link):
         self.link = link
