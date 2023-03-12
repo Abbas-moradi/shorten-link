@@ -1,0 +1,1560 @@
+2023-03-07 23:46:12,409  INFO  Show the menu for user
+2023-03-07 23:46:21,739  ERROR  the user name has been exist!
+NoneType: None
+2023-03-07 23:46:23,603  ERROR  invalid input
+NoneType: None
+2023-03-07 23:46:23,614  INFO  Show the menu for user
+2023-03-07 23:46:25,314  INFO  Show the menu for user
+2023-03-07 23:46:33,775  ERROR  invalid input
+NoneType: None
+2023-03-07 23:46:33,785  INFO  Show the menu for user
+2023-03-07 23:46:36,367  INFO  Show the menu for user
+2023-03-07 23:46:43,540  INFO  Username: abbas is logging
+2023-03-07 23:46:43,540  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-07 23:46:46,087  ERROR  invalid input
+NoneType: None
+2023-03-07 23:46:46,098  INFO  Show the menu for user
+2023-03-07 23:46:48,936  INFO  Show the menu for user
+2023-03-07 23:46:52,547  INFO  the list shortner show by abbas
+2023-03-07 23:46:55,183  ERROR  invalid input
+NoneType: None
+2023-03-07 23:46:55,193  INFO  Show the menu for user
+2023-03-07 23:46:56,385  INFO  Show the menu for user
+2023-03-07 23:46:59,011  INFO  The user hit exit
+2023-03-07 23:52:53,444  INFO  Show the menu for user
+2023-03-07 23:52:57,505  INFO  Show the menu for user
+2023-03-07 23:53:04,753  INFO  Show the menu for user
+2023-03-07 23:53:46,184  ERROR  invalid input
+NoneType: None
+2023-03-07 23:53:46,193  INFO  Show the menu for user
+2023-03-07 23:53:48,851  ERROR  invalid input
+NoneType: None
+2023-03-07 23:53:48,861  INFO  Show the menu for user
+2023-03-07 23:53:50,269  INFO  Show the menu for user
+2023-03-07 23:53:55,462  INFO  Show the menu for user
+2023-03-07 23:54:01,919  INFO  Show the menu for user
+2023-03-07 23:54:03,870  INFO  Show the menu for user
+2023-03-07 23:54:12,219  INFO  The user hit exit
+2023-03-08 10:01:29,047  INFO  Show the menu for user
+2023-03-08 10:01:39,346  INFO  Show the menu for user
+2023-03-08 10:01:50,917  ERROR  invalid input
+NoneType: None
+2023-03-08 10:01:50,927  INFO  Show the menu for user
+2023-03-08 10:01:55,451  INFO  Show the menu for user
+2023-03-08 10:01:57,938  INFO  The user hit exit
+2023-03-08 15:59:59,137  INFO  Show the menu for user
+2023-03-08 16:00:12,834  INFO  Username: abbas is logging
+2023-03-08 16:00:12,834  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:00:15,793  ERROR  invalid input
+NoneType: None
+2023-03-08 16:00:15,805  INFO  Show the menu for user
+2023-03-08 16:00:18,738  INFO  Show the menu for user
+2023-03-08 16:00:25,133  INFO  the list shortner show by abbas
+2023-03-08 16:00:38,821  ERROR  invalid input
+NoneType: None
+2023-03-08 16:00:38,831  INFO  Show the menu for user
+2023-03-08 16:00:43,811  INFO  the list shortner show by abbas
+2023-03-08 16:00:50,985  ERROR  invalid input
+NoneType: None
+2023-03-08 16:00:50,995  INFO  Show the menu for user
+2023-03-08 16:00:52,563  INFO  Show the menu for user
+2023-03-08 16:00:55,717  INFO  The user hit exit
+2023-03-08 16:04:17,665  INFO  Show the menu for user
+2023-03-08 16:04:27,128  INFO  Username: abbas is logging
+2023-03-08 16:04:27,128  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:04:28,157  ERROR  invalid input
+NoneType: None
+2023-03-08 16:04:28,167  INFO  Show the menu for user
+2023-03-08 16:04:29,478  INFO  Show the menu for user
+2023-03-08 16:04:33,750  INFO  the list shortner show by abbas
+2023-03-08 16:04:36,757  ERROR  invalid input
+NoneType: None
+2023-03-08 16:04:36,767  INFO  Show the menu for user
+2023-03-08 16:04:43,238  INFO  the list shortner show by abbas
+2023-03-08 16:04:53,837  ERROR  invalid input
+NoneType: None
+2023-03-08 16:04:53,846  INFO  Show the menu for user
+2023-03-08 16:05:01,005  INFO  the list shortner show by abbas
+2023-03-08 16:05:04,739  INFO  Item shortner.ir/leybyt remove successful...
+2023-03-08 16:05:08,909  ERROR  invalid input
+NoneType: None
+2023-03-08 16:05:08,920  INFO  Show the menu for user
+2023-03-08 16:05:14,363  INFO  the list shortner show by abbas
+2023-03-08 16:05:16,497  ERROR  invalid input
+NoneType: None
+2023-03-08 16:05:16,507  INFO  Show the menu for user
+2023-03-08 16:05:17,451  INFO  Show the menu for user
+2023-03-08 16:05:19,805  INFO  The user hit exit
+2023-03-08 16:06:28,175  INFO  Show the menu for user
+2023-03-08 16:06:40,781  INFO  Username: abbas is logging
+2023-03-08 16:06:40,781  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:06:45,914  ERROR  invalid input
+NoneType: None
+2023-03-08 16:06:45,925  INFO  Show the menu for user
+2023-03-08 16:06:49,396  INFO  Show the menu for user
+2023-03-08 16:06:52,720  INFO  Show the menu for user
+2023-03-08 16:06:58,634  ERROR  invalid input
+NoneType: None
+2023-03-08 16:06:58,645  INFO  Show the menu for user
+2023-03-08 16:06:59,774  INFO  Show the menu for user
+2023-03-08 16:07:00,390  INFO  Show the menu for user
+2023-03-08 16:07:02,240  INFO  The user hit exit
+2023-03-08 16:08:01,031  INFO  Show the menu for user
+2023-03-08 16:08:13,346  INFO  Username: abbas is logging
+2023-03-08 16:08:13,346  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:08:14,585  ERROR  invalid input
+NoneType: None
+2023-03-08 16:08:14,596  INFO  Show the menu for user
+2023-03-08 16:08:18,378  INFO  Show the menu for user
+2023-03-08 16:08:20,744  INFO  Show the menu for user
+2023-03-08 16:08:45,437  INFO  creat the short cod
+2023-03-08 16:08:45,449  INFO  the short link has been save
+2023-03-08 16:08:52,144  ERROR  invalid input
+NoneType: None
+2023-03-08 16:08:52,157  INFO  Show the menu for user
+2023-03-08 16:08:55,630  INFO  Show the menu for user
+2023-03-08 16:09:00,066  INFO  the list shortner show by abbas
+2023-03-08 16:09:06,140  ERROR  invalid input
+NoneType: None
+2023-03-08 16:09:06,152  INFO  Show the menu for user
+2023-03-08 16:09:07,570  INFO  Show the menu for user
+2023-03-08 16:09:10,641  INFO  The user hit exit
+2023-03-08 16:15:04,865  INFO  Show the menu for user
+2023-03-08 16:15:31,838  INFO  Username: abbas is logging
+2023-03-08 16:15:31,838  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:15:34,774  ERROR  invalid input
+NoneType: None
+2023-03-08 16:15:34,784  INFO  Show the menu for user
+2023-03-08 16:15:44,833  INFO  Show the menu for user
+2023-03-08 16:15:46,823  INFO  Show the menu for user
+2023-03-08 16:16:19,446  INFO  creat the short cod
+2023-03-08 16:16:19,446  INFO  the short link has been save
+2023-03-08 16:16:19,448  ERROR  invalid input
+NoneType: None
+2023-03-08 16:16:19,459  INFO  Show the menu for user
+2023-03-08 16:16:19,469  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+2023-03-08 16:16:19,833  INFO  Show the menu for user
+2023-03-08 16:16:19,842  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+2023-03-08 16:16:19,850  INFO  Show the menu for user
+2023-03-08 16:16:19,859  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+2023-03-08 16:16:19,869  INFO  Show the menu for user
+2023-03-08 16:16:19,878  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+2023-03-08 16:16:19,888  INFO  Show the menu for user
+2023-03-08 16:16:19,896  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+2023-03-08 16:16:19,906  INFO  Show the menu for user
+2023-03-08 16:16:19,914  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    # link = 'www.google.com'"
+2023-03-08 16:16:19,923  INFO  Show the menu for user
+2023-03-08 16:16:19,931  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    # link = 'www.google.com'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    path = 'D:\\maktab sharif\\week-06-practise\\Maktab93-Python-main-02\\self project\\storage\\shorten'"
+2023-03-08 16:16:19,940  INFO  Show the menu for user
+2023-03-08 16:16:19,948  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    # link = 'www.google.com'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    path = 'D:\\maktab sharif\\week-06-practise\\Maktab93-Python-main-02\\self project\\storage\\shorten'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        if link_shortner in shelf_shortner:'
+2023-03-08 16:16:19,957  INFO  Show the menu for user
+2023-03-08 16:16:19,965  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    # link = 'www.google.com'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    path = 'D:\\maktab sharif\\week-06-practise\\Maktab93-Python-main-02\\self project\\storage\\shorten'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        if link_shortner in shelf_shortner:'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        else:'
+2023-03-08 16:16:19,976  INFO  Show the menu for user
+2023-03-08 16:16:19,984  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    # link = 'www.google.com'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    path = 'D:\\maktab sharif\\week-06-practise\\Maktab93-Python-main-02\\self project\\storage\\shorten'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        if link_shortner in shelf_shortner:'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        else:'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "            print(f'the shortner link is :{link_shortner}')"
+2023-03-08 16:16:19,993  INFO  Show the menu for user
+2023-03-08 16:16:25,513  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from logs import log_prog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'def shortner():'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    shortner_char = 'abcdefghijklmnopqrstuvwxyz1234567890'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    x_short = ''.join(random_short)"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '    link_short = {}'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    # link = 'www.google.com'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "    path = 'D:\\maktab sharif\\week-06-practise\\Maktab93-Python-main-02\\self project\\storage\\shorten'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        if link_shortner in shelf_shortner:'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '        else:'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "            print(f'the shortner link is :{link_shortner}')"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "            log_prog.logger_info('the short link has been save')"
+2023-03-08 16:16:25,525  INFO  Show the menu for user
+2023-03-08 16:16:28,555  INFO  Show the menu for user
+2023-03-08 16:16:29,448  INFO  Show the menu for user
+2023-03-08 16:16:31,735  INFO  The user hit exit
+2023-03-08 16:17:13,079  INFO  Show the menu for user
+2023-03-08 16:17:18,230  INFO  Show the menu for user
+2023-03-08 16:17:19,865  INFO  Show the menu for user
+2023-03-08 16:17:55,465  INFO  creat the short cod
+2023-03-08 16:17:55,479  INFO  the short link has been save
+2023-03-08 16:18:03,786  ERROR  invalid input
+NoneType: None
+2023-03-08 16:18:03,796  INFO  Show the menu for user
+2023-03-08 16:18:05,600  INFO  Show the menu for user
+2023-03-08 16:18:12,101  ERROR  invalid input
+NoneType: None
+2023-03-08 16:18:12,111  INFO  Show the menu for user
+2023-03-08 16:18:13,320  INFO  Show the menu for user
+2023-03-08 16:18:20,562  INFO  Username: abbas is logging
+2023-03-08 16:18:20,562  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:18:21,533  ERROR  invalid input
+NoneType: None
+2023-03-08 16:18:21,543  INFO  Show the menu for user
+2023-03-08 16:18:24,788  INFO  Show the menu for user
+2023-03-08 16:18:28,044  INFO  the list shortner show by abbas
+2023-03-08 16:18:42,957  ERROR  invalid input
+NoneType: None
+2023-03-08 16:18:42,967  INFO  Show the menu for user
+2023-03-08 16:18:47,451  INFO  the list shortner show by abbas
+2023-03-08 16:18:51,210  INFO  Item shortner.ir/a1s2d3f remove successful...
+2023-03-08 16:18:53,749  ERROR  invalid input
+NoneType: None
+2023-03-08 16:18:53,759  INFO  Show the menu for user
+2023-03-08 16:29:39,523  INFO  Show the menu for user
+2023-03-08 16:29:41,378  INFO  The user hit exit
+2023-03-08 16:29:45,172  INFO  Show the menu for user
+2023-03-08 16:29:53,391  INFO  Username: abbas is logging
+2023-03-08 16:29:53,391  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:29:54,237  ERROR  invalid input
+NoneType: None
+2023-03-08 16:29:54,247  INFO  Show the menu for user
+2023-03-08 16:29:56,347  INFO  Show the menu for user
+2023-03-08 16:29:58,374  INFO  Show the menu for user
+2023-03-08 16:30:04,909  ERROR  invalid input
+NoneType: None
+2023-03-08 16:30:04,919  INFO  Show the menu for user
+2023-03-08 16:30:21,241  ERROR  invalid input
+NoneType: None
+2023-03-08 16:30:21,251  INFO  Show the menu for user
+2023-03-08 16:30:22,260  INFO  Show the menu for user
+2023-03-08 16:30:22,774  INFO  Show the menu for user
+2023-03-08 16:30:24,426  INFO  The user hit exit
+2023-03-08 16:30:50,295  INFO  Show the menu for user
+2023-03-08 16:30:59,196  INFO  Username: abbas is logging
+2023-03-08 16:30:59,197  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:31:00,089  ERROR  invalid input
+NoneType: None
+2023-03-08 16:31:00,099  INFO  Show the menu for user
+2023-03-08 16:31:01,467  INFO  Show the menu for user
+2023-03-08 16:31:02,783  INFO  Show the menu for user
+2023-03-08 16:31:06,494  INFO  the list shortner show by abbas
+2023-03-08 16:31:18,553  ERROR  invalid input
+NoneType: None
+2023-03-08 16:31:18,562  INFO  Show the menu for user
+2023-03-08 16:31:29,073  INFO  Link shortner.ir/vqsho7 show by abbas
+2023-03-08 16:33:08,273  ERROR  invalid input
+NoneType: None
+2023-03-08 16:33:08,284  INFO  Show the menu for user
+2023-03-08 16:33:10,431  INFO  Show the menu for user
+2023-03-08 16:33:13,524  INFO  Show the menu for user
+2023-03-08 16:33:15,363  INFO  Show the menu for user
+2023-03-08 16:33:15,959  INFO  Show the menu for user
+2023-03-08 16:33:18,429  INFO  The user hit exit
+2023-03-08 16:34:26,091  INFO  Show the menu for user
+2023-03-08 16:35:42,605  INFO  the register has been successful...
+2023-03-08 16:35:49,522  ERROR  invalid input
+NoneType: None
+2023-03-08 16:35:49,531  INFO  Show the menu for user
+2023-03-08 16:35:52,176  INFO  Show the menu for user
+2023-03-08 16:35:54,963  INFO  Show the menu for user
+2023-03-08 16:36:06,213  ERROR  invalid input
+NoneType: None
+2023-03-08 16:36:06,223  INFO  Show the menu for user
+2023-03-08 16:36:08,067  INFO  Show the menu for user
+2023-03-08 16:36:09,563  INFO  Show the menu for user
+2023-03-08 16:36:25,089  ERROR  username/password invalid !!! input is:homayoun
+NoneType: None
+2023-03-08 16:36:26,898  ERROR  invalid input
+NoneType: None
+2023-03-08 16:36:26,907  INFO  Show the menu for user
+2023-03-08 16:36:29,446  INFO  Show the menu for user
+2023-03-08 16:36:31,190  INFO  Show the menu for user
+2023-03-08 16:36:49,905  ERROR  invalid input
+NoneType: None
+2023-03-08 16:36:49,915  INFO  Show the menu for user
+2023-03-08 16:36:53,652  INFO  Show the menu for user
+2023-03-08 16:36:55,203  INFO  Show the menu for user
+2023-03-08 16:37:03,779  INFO  Username: abbas is logging
+2023-03-08 16:37:03,779  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 16:37:06,353  ERROR  invalid input
+NoneType: None
+2023-03-08 16:37:06,362  INFO  Show the menu for user
+2023-03-08 16:37:08,083  INFO  Show the menu for user
+2023-03-08 16:37:10,426  INFO  Show the menu for user
+2023-03-08 16:37:15,077  INFO  the list shortner show by abbas
+2023-03-08 16:38:10,949  ERROR  invalid input
+NoneType: None
+2023-03-08 16:38:10,960  INFO  Show the menu for user
+2023-03-08 16:38:12,621  INFO  Show the menu for user
+2023-03-08 16:38:13,327  INFO  Show the menu for user
+2023-03-08 16:38:16,506  INFO  The user hit exit
+2023-03-08 16:38:51,098  INFO  Show the menu for user
+2023-03-08 16:39:05,715  ERROR  username/password invalid !!! input is:homayoun
+NoneType: None
+2023-03-08 16:39:13,525  ERROR  invalid input
+NoneType: None
+2023-03-08 16:39:13,535  INFO  Show the menu for user
+2023-03-08 16:39:28,334  ERROR  the user name has been exist!
+NoneType: None
+2023-03-08 16:39:34,646  ERROR  invalid input
+NoneType: None
+2023-03-08 16:39:34,656  INFO  Show the menu for user
+2023-03-08 16:40:16,469  ERROR  the user name has been exist!
+NoneType: None
+2023-03-08 16:40:49,121  ERROR  invalid input
+NoneType: None
+2023-03-08 16:40:49,130  INFO  Show the menu for user
+2023-03-08 16:40:52,445  INFO  The user hit exit
+2023-03-08 16:40:55,624  INFO  Show the menu for user
+2023-03-08 16:41:28,445  ERROR  invalid input
+NoneType: None
+2023-03-08 16:41:28,455  INFO  Show the menu for user
+2023-03-08 16:42:08,265  ERROR  invalid input
+NoneType: None
+2023-03-08 16:42:08,275  INFO  Show the menu for user
+2023-03-08 16:42:27,113  ERROR  invalid input
+NoneType: None
+2023-03-08 16:42:27,123  INFO  Show the menu for user
+2023-03-08 16:43:02,550  INFO  The user hit exit
+2023-03-08 16:43:05,352  INFO  Show the menu for user
+2023-03-08 16:43:19,417  INFO  the register has been successful...
+2023-03-08 16:43:28,662  ERROR  invalid input
+NoneType: None
+2023-03-08 16:43:28,671  INFO  Show the menu for user
+2023-03-08 16:43:30,600  INFO  Show the menu for user
+2023-03-08 16:43:31,968  INFO  Show the menu for user
+2023-03-08 16:43:39,613  ERROR  invalid input
+NoneType: None
+2023-03-08 16:43:39,623  INFO  Show the menu for user
+2023-03-08 16:43:41,287  INFO  Show the menu for user
+2023-03-08 16:43:43,099  INFO  Show the menu for user
+2023-03-08 16:43:55,715  INFO  Username: homayoun is logging
+2023-03-08 16:43:55,715  ERROR  username/password invalid !!! input is:homayoun
+NoneType: None
+2023-03-08 16:43:58,629  ERROR  invalid input
+NoneType: None
+2023-03-08 16:43:58,639  INFO  Show the menu for user
+2023-03-08 16:44:00,551  INFO  Show the menu for user
+2023-03-08 16:44:01,439  INFO  Show the menu for user
+2023-03-08 16:44:06,710  INFO  the list shortner show by homayoun
+2023-03-08 16:44:30,538  ERROR  invalid input
+NoneType: None
+2023-03-08 16:44:30,547  INFO  Show the menu for user
+2023-03-08 16:44:49,956  INFO  Show the menu for user
+2023-03-08 16:44:54,819  INFO  Show the menu for user
+2023-03-08 16:45:28,926  INFO  Your cod is very short/long...!!!
+2023-03-08 16:45:49,805  INFO  creat the short cod
+2023-03-08 16:45:49,807  INFO  the short link has been save
+2023-03-08 16:46:00,746  ERROR  invalid input
+NoneType: None
+2023-03-08 16:46:00,756  INFO  Show the menu for user
+2023-03-08 16:46:02,555  INFO  Show the menu for user
+2023-03-08 16:46:05,015  INFO  Show the menu for user
+2023-03-08 16:46:50,842  ERROR  invalid input
+NoneType: None
+2023-03-08 16:46:50,853  INFO  Show the menu for user
+2023-03-08 16:47:01,373  INFO  Link https://www.shortner.ir/wed1392 show by homayoun
+2023-03-08 19:26:26,286  INFO  Show the menu for user
+2023-03-08 19:26:47,646  INFO  Show the menu for user
+2023-03-08 19:26:56,179  INFO  Show the menu for user
+2023-03-08 19:27:07,432  INFO  Show the menu for user
+2023-03-08 19:27:08,903  INFO  Show the menu for user
+2023-03-08 19:27:13,409  INFO  Show the menu for user
+2023-03-08 19:27:14,624  INFO  Show the menu for user
+2023-03-08 19:27:23,260  ERROR  invalid input
+NoneType: None
+2023-03-08 19:27:23,270  INFO  Show the menu for user
+2023-03-08 19:27:24,707  INFO  Show the menu for user
+2023-03-08 19:27:25,581  INFO  Show the menu for user
+2023-03-08 19:27:33,185  INFO  the register has been successful...
+2023-03-08 19:27:35,074  ERROR  invalid input
+NoneType: None
+2023-03-08 19:27:35,085  INFO  Show the menu for user
+2023-03-08 19:27:41,902  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:27:43,300  ERROR  invalid input
+NoneType: None
+2023-03-08 19:27:43,310  INFO  Show the menu for user
+2023-03-08 19:27:53,433  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:27:55,154  ERROR  invalid input
+NoneType: None
+2023-03-08 19:27:55,164  INFO  Show the menu for user
+2023-03-08 19:27:57,557  INFO  Show the menu for user
+2023-03-08 19:28:29,117  INFO  Show the menu for user
+2023-03-08 19:28:35,268  ERROR  invalid input
+NoneType: None
+2023-03-08 19:28:35,280  INFO  Show the menu for user
+2023-03-08 19:28:36,594  INFO  Show the menu for user
+2023-03-08 19:28:37,183  INFO  Show the menu for user
+2023-03-08 19:28:39,101  INFO  The user hit exit
+2023-03-08 19:28:48,937  INFO  Show the menu for user
+2023-03-08 19:28:59,989  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:29:05,061  ERROR  invalid input
+NoneType: None
+2023-03-08 19:29:05,069  INFO  Show the menu for user
+2023-03-08 19:29:19,081  ERROR  username/password invalid !!! input is:homayoun
+NoneType: None
+2023-03-08 19:29:20,512  ERROR  invalid input
+NoneType: None
+2023-03-08 19:29:20,524  INFO  Show the menu for user
+2023-03-08 19:29:29,152  INFO  The user hit exit
+2023-03-08 19:31:16,721  INFO  Show the menu for user
+2023-03-08 19:32:31,397  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+                ^^^^^^^^^^^^^
+  File "<frozen codecs>", line 319, in decode
+KeyboardInterrupt
+2023-03-08 19:32:31,741  INFO  Show the menu for user
+2023-03-08 19:32:34,940  INFO  The user hit exit
+2023-03-08 19:32:44,571  INFO  Show the menu for user
+2023-03-08 19:32:54,246  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:32:57,368  ERROR  invalid input
+NoneType: None
+2023-03-08 19:32:57,379  INFO  Show the menu for user
+2023-03-08 19:33:16,425  INFO  The user hit exit
+2023-03-08 19:33:18,571  INFO  Show the menu for user
+2023-03-08 19:33:25,537  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:33:38,268  ERROR  invalid input
+NoneType: None
+2023-03-08 19:33:38,277  INFO  Show the menu for user
+2023-03-08 19:33:47,300  INFO  Username: homayoun is logging
+2023-03-08 19:33:47,300  ERROR  username/password invalid !!! input is:homayoun
+NoneType: None
+2023-03-08 19:33:58,709  ERROR  invalid input
+NoneType: None
+2023-03-08 19:33:58,719  INFO  Show the menu for user
+2023-03-08 19:34:00,394  INFO  Show the menu for user
+2023-03-08 19:34:03,332  INFO  Show the menu for user
+2023-03-08 19:34:09,031  INFO  the list shortner show by homayoun
+2023-03-08 19:34:19,728  ERROR  invalid input
+NoneType: None
+2023-03-08 19:34:19,740  INFO  Show the menu for user
+2023-03-08 19:34:21,405  INFO  Show the menu for user
+2023-03-08 19:34:28,478  INFO  the list shortner show by homayoun
+2023-03-08 19:34:33,572  INFO  Item shortner.ir/vidid1 remove successful...
+2023-03-08 19:34:35,277  ERROR  invalid input
+NoneType: None
+2023-03-08 19:34:35,287  INFO  Show the menu for user
+2023-03-08 19:34:37,120  INFO  Show the menu for user
+2023-03-08 19:34:47,677  INFO  the list shortner show by homayoun
+2023-03-08 19:34:53,215  ERROR  invalid input
+NoneType: None
+2023-03-08 19:34:53,225  INFO  Show the menu for user
+2023-03-08 19:34:57,042  INFO  Show the menu for user
+2023-03-08 19:36:12,619  INFO  Show the menu for user
+2023-03-08 19:37:29,037  INFO  the register has been successful...
+2023-03-08 19:37:32,796  ERROR  invalid input
+NoneType: None
+2023-03-08 19:37:32,806  INFO  Show the menu for user
+2023-03-08 19:37:41,262  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:40:14,288  ERROR  invalid input
+NoneType: None
+2023-03-08 19:40:14,297  INFO  Show the menu for user
+2023-03-08 19:40:16,471  INFO  The user hit exit
+2023-03-08 19:40:19,173  INFO  Show the menu for user
+2023-03-08 19:40:28,806  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:40:35,772  ERROR  invalid input
+NoneType: None
+2023-03-08 19:40:35,783  INFO  Show the menu for user
+2023-03-08 19:41:47,412  INFO  The user hit exit
+2023-03-08 19:41:49,556  INFO  Show the menu for user
+2023-03-08 19:42:14,956  ERROR  invalid input
+NoneType: None
+2023-03-08 19:42:14,966  INFO  Show the menu for user
+2023-03-08 19:42:33,757  INFO  The user hit exit
+2023-03-08 19:42:36,244  INFO  Show the menu for user
+2023-03-08 19:42:43,475  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:43:18,728  ERROR  invalid input
+NoneType: None
+2023-03-08 19:43:18,739  INFO  Show the menu for user
+2023-03-08 19:43:21,224  INFO  The user hit exit
+2023-03-08 19:43:23,545  INFO  Show the menu for user
+2023-03-08 19:43:30,784  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:43:30,785  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:43:30,785  INFO  Username: javad is logging
+2023-03-08 19:43:30,785  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:43:54,623  ERROR  invalid input
+NoneType: None
+2023-03-08 19:43:54,636  INFO  Show the menu for user
+2023-03-08 19:43:56,492  INFO  Show the menu for user
+2023-03-08 19:43:59,056  INFO  Show the menu for user
+2023-03-08 19:44:04,743  ERROR  invalid input
+NoneType: None
+2023-03-08 19:44:04,753  INFO  Show the menu for user
+2023-03-08 19:44:14,381  INFO  Show the menu for user
+2023-03-08 19:44:15,430  INFO  Show the menu for user
+2023-03-08 19:44:18,165  INFO  The user hit exit
+2023-03-08 19:47:04,856  INFO  Show the menu for user
+2023-03-08 19:47:12,898  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:47:12,898  INFO  Username: abbas is logging
+2023-03-08 19:47:12,898  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-08 19:48:06,311  ERROR  invalid input
+NoneType: None
+2023-03-08 19:48:06,323  INFO  Show the menu for user
+2023-03-08 19:48:08,816  INFO  Show the menu for user
+2023-03-08 19:48:13,723  INFO  Show the menu for user
+2023-03-08 19:48:17,061  INFO  the list shortner show by abbas
+2023-03-08 19:48:19,476  ERROR  invalid input
+NoneType: None
+2023-03-08 19:48:19,487  INFO  Show the menu for user
+2023-03-08 19:48:25,648  ERROR  invalid input
+NoneType: None
+2023-03-08 19:48:25,657  INFO  Show the menu for user
+2023-03-08 19:48:27,427  INFO  Show the menu for user
+2023-03-08 19:48:28,437  INFO  Show the menu for user
+2023-03-08 19:48:36,868  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:48:36,868  ERROR  username/password invalid !!! input is:javad
+NoneType: None
+2023-03-08 19:48:36,869  INFO  Username: javad is logging
+2023-03-08 19:48:38,756  ERROR  invalid input
+NoneType: None
+2023-03-08 19:48:38,769  INFO  Show the menu for user
+2023-03-08 19:48:40,403  INFO  Show the menu for user
+2023-03-08 19:48:41,278  INFO  Show the menu for user
+2023-03-08 19:48:44,337  INFO  the list shortner show by javad
+2023-03-08 19:48:50,340  ERROR  invalid input
+NoneType: None
+2023-03-08 19:48:50,350  INFO  Show the menu for user
+2023-03-08 19:48:52,528  INFO  Show the menu for user
+2023-03-08 19:48:53,688  INFO  Show the menu for user
+2023-03-08 19:49:00,169  INFO  Username javad log out
+2023-03-08 19:49:02,413  ERROR  invalid input
+NoneType: None
+2023-03-08 19:49:02,421  INFO  Show the menu for user
+2023-03-08 19:49:04,152  INFO  Show the menu for user
+2023-03-08 19:49:05,390  INFO  Show the menu for user
+2023-03-08 19:49:11,997  ERROR  invalid input
+NoneType: None
+2023-03-08 19:49:12,009  INFO  Show the menu for user
+2023-03-08 19:49:15,297  INFO  Show the menu for user
+2023-03-08 19:49:16,262  INFO  Show the menu for user
+2023-03-08 19:49:25,853  INFO  the register has been successful...
+2023-03-08 19:49:28,160  ERROR  invalid input
+NoneType: None
+2023-03-08 19:49:28,169  INFO  Show the menu for user
+2023-03-08 19:49:39,355  ERROR  username/password invalid !!! input is:hesam
+NoneType: None
+2023-03-08 19:49:39,355  ERROR  username/password invalid !!! input is:hesam
+NoneType: None
+2023-03-08 19:49:39,355  ERROR  username/password invalid !!! input is:hesam
+NoneType: None
+2023-03-08 19:49:39,355  INFO  Username: hesam is logging
+2023-03-08 19:49:41,856  ERROR  invalid input
+NoneType: None
+2023-03-08 19:49:41,865  INFO  Show the menu for user
+2023-03-08 19:49:43,212  INFO  Show the menu for user
+2023-03-08 19:49:44,888  INFO  Show the menu for user
+2023-03-08 19:49:48,713  INFO  the list shortner show by hesam
+2023-03-08 19:50:08,303  ERROR  invalid input
+NoneType: None
+2023-03-08 19:50:08,314  INFO  Show the menu for user
+2023-03-08 19:50:09,923  INFO  Show the menu for user
+2023-03-08 19:50:10,750  INFO  Show the menu for user
+2023-03-08 19:50:13,237  INFO  The user hit exit
+2023-03-09 10:48:48,968  INFO  Show the menu for user
+2023-03-09 10:48:58,012  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 10:48:58,012  INFO  Username: abbas is logging
+2023-03-09 10:48:58,012  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 10:48:58,012  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 10:48:59,737  ERROR  invalid input
+NoneType: None
+2023-03-09 10:48:59,745  INFO  Show the menu for user
+2023-03-09 10:49:43,161  INFO  Show the menu for user
+2023-03-09 10:49:44,502  INFO  Show the menu for user
+2023-03-09 10:49:53,606  INFO  the list shortner show by abbas
+2023-03-09 15:37:07,437  INFO  Show the menu for user
+2023-03-09 15:37:19,068  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 15:37:19,069  INFO  Username: abbas is logging
+2023-03-09 15:37:19,069  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 15:37:19,069  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 15:37:21,433  ERROR  invalid input
+NoneType: None
+2023-03-09 15:37:21,444  INFO  Show the menu for user
+2023-03-09 15:37:23,807  INFO  Show the menu for user
+2023-03-09 15:37:24,867  INFO  Show the menu for user
+2023-03-09 15:37:28,998  INFO  the list shortner show by abbas
+2023-03-09 15:37:33,237  ERROR  invalid input
+NoneType: None
+2023-03-09 15:37:33,248  INFO  Show the menu for user
+2023-03-09 15:37:35,796  INFO  Show the menu for user
+2023-03-09 15:37:42,154  INFO  the list shortner show by abbas
+2023-03-09 15:38:08,110  INFO  Item shortner.ir/vqsho7 remove successful...
+2023-03-09 15:38:09,942  ERROR  invalid input
+NoneType: None
+2023-03-09 15:38:09,953  INFO  Show the menu for user
+2023-03-09 15:38:15,051  INFO  Show the menu for user
+2023-03-09 15:40:32,321  ERROR  invalid input
+NoneType: None
+2023-03-09 15:40:32,334  INFO  Show the menu for user
+2023-03-09 15:40:44,121  ERROR  invalid input
+NoneType: None
+2023-03-09 15:40:44,132  INFO  Show the menu for user
+2023-03-09 15:41:03,618  ERROR  invalid input
+NoneType: None
+2023-03-09 15:41:03,627  INFO  Show the menu for user
+2023-03-09 15:41:05,227  INFO  Show the menu for user
+2023-03-09 15:41:05,692  INFO  Show the menu for user
+2023-03-09 15:41:07,191  INFO  Show the menu for user
+2023-03-09 15:41:08,941  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+2023-03-09 15:41:09,044  INFO  Show the menu for user
+2023-03-09 15:41:13,174  INFO  The user hit exit
+2023-03-09 15:42:12,647  INFO  Show the menu for user
+2023-03-09 15:42:21,924  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 15:42:21,924  INFO  Username: abbas is logging
+2023-03-09 15:42:21,925  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 15:42:21,925  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 15:42:23,247  ERROR  invalid input
+NoneType: None
+2023-03-09 15:42:23,257  INFO  Show the menu for user
+2023-03-09 15:42:29,584  INFO  Show the menu for user
+2023-03-09 15:42:31,307  INFO  Show the menu for user
+2023-03-09 15:42:34,677  INFO  creat the short cod
+2023-03-09 15:42:34,678  INFO  The short link has been save
+2023-03-09 15:43:34,398  ERROR  invalid input
+NoneType: None
+2023-03-09 15:43:34,408  INFO  Show the menu for user
+2023-03-09 15:58:57,332  INFO  Show the menu for user
+2023-03-09 15:58:58,055  INFO  Show the menu for user
+2023-03-09 15:59:00,129  INFO  The user hit exit
+2023-03-09 16:12:07,117  INFO  Show the menu for user
+2023-03-09 16:27:04,044  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 16:27:04,044  INFO  Username: abbas is logging
+2023-03-09 16:27:04,044  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 16:27:04,045  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 16:27:05,002  ERROR  invalid input
+NoneType: None
+2023-03-09 16:27:05,011  INFO  Show the menu for user
+2023-03-09 16:27:06,572  INFO  Show the menu for user
+2023-03-09 16:27:08,966  INFO  Show the menu for user
+2023-03-09 16:27:14,598  ERROR  invalid input
+NoneType: None
+2023-03-09 16:27:14,609  INFO  Show the menu for user
+2023-03-09 16:27:17,460  INFO  Show the menu for user
+2023-03-09 16:27:17,826  INFO  Show the menu for user
+2023-03-09 16:27:20,046  INFO  The user hit exit
+2023-03-09 16:51:43,415  INFO  Show the menu for user
+2023-03-09 16:51:47,235  INFO  Show the menu for user
+2023-03-09 16:51:48,351  INFO  Show the menu for user
+2023-03-09 16:52:26,370  ERROR  invalid input
+NoneType: None
+2023-03-09 16:52:26,380  INFO  Show the menu for user
+2023-03-09 16:52:30,950  ERROR  invalid input
+NoneType: None
+2023-03-09 16:52:30,961  INFO  Show the menu for user
+2023-03-09 16:52:32,657  INFO  Show the menu for user
+2023-03-09 16:52:33,025  INFO  Show the menu for user
+2023-03-09 16:52:34,486  INFO  The user hit exit
+2023-03-09 16:53:01,708  INFO  Show the menu for user
+2023-03-09 16:53:06,804  INFO  Show the menu for user
+2023-03-09 16:53:08,472  INFO  Show the menu for user
+2023-03-09 16:53:12,030  INFO  creat the short cod
+2023-03-09 16:53:12,044  INFO  The short link has been save
+2023-03-09 16:53:16,263  ERROR  invalid input
+NoneType: None
+2023-03-09 16:53:16,272  INFO  Show the menu for user
+2023-03-09 16:53:17,864  INFO  Show the menu for user
+2023-03-09 16:53:19,960  INFO  Show the menu for user
+2023-03-09 17:11:40,162  INFO  Show the menu for user
+2023-03-09 17:11:44,890  INFO  The user hit exit
+2023-03-09 17:41:06,136  INFO  Show the menu for user
+2023-03-09 17:41:09,754  INFO  Show the menu for user
+2023-03-09 17:41:14,697  INFO  Show the menu for user
+2023-03-09 17:41:42,868  INFO  creat the short cod
+2023-03-09 17:41:47,807  ERROR  invalid input
+NoneType: None
+2023-03-09 17:41:47,815  INFO  Show the menu for user
+2023-03-09 17:41:50,475  INFO  Show the menu for user
+2023-03-09 17:41:50,839  INFO  Show the menu for user
+2023-03-09 17:41:52,268  INFO  Show the menu for user
+2023-03-09 17:41:54,256  INFO  Show the menu for user
+2023-03-09 17:41:57,183  INFO  The user hit exit
+2023-03-09 17:42:29,585  INFO  Show the menu for user
+2023-03-09 17:42:31,937  INFO  Show the menu for user
+2023-03-09 17:42:33,968  INFO  Show the menu for user
+2023-03-09 17:42:36,494  INFO  creat the short cod
+2023-03-09 17:42:36,507  INFO  The short link has been save
+2023-03-09 17:42:42,155  ERROR  invalid input
+NoneType: None
+2023-03-09 17:42:42,164  INFO  Show the menu for user
+2023-03-09 17:44:17,753  INFO  Show the menu for user
+2023-03-09 17:44:18,042  INFO  Show the menu for user
+2023-03-09 17:44:20,087  INFO  The user hit exit
+2023-03-09 17:44:24,551  INFO  Show the menu for user
+2023-03-09 17:44:26,828  INFO  Show the menu for user
+2023-03-09 17:44:28,220  INFO  Show the menu for user
+2023-03-09 17:44:38,558  ERROR  invalid input
+NoneType: None
+2023-03-09 17:44:38,567  INFO  Show the menu for user
+2023-03-09 17:45:02,061  INFO  Show the menu for user
+2023-03-09 17:45:02,384  INFO  Show the menu for user
+2023-03-09 17:45:04,279  INFO  The user hit exit
+2023-03-09 17:45:07,237  INFO  Show the menu for user
+2023-03-09 17:45:09,940  INFO  Show the menu for user
+2023-03-09 17:45:10,978  INFO  Show the menu for user
+2023-03-09 17:46:16,778  ERROR  invalid input
+NoneType: None
+2023-03-09 17:46:16,787  INFO  Show the menu for user
+2023-03-09 17:46:24,904  INFO  Show the menu for user
+2023-03-09 17:46:25,235  INFO  Show the menu for user
+2023-03-09 17:46:26,924  INFO  The user hit exit
+2023-03-09 17:46:29,866  INFO  Show the menu for user
+2023-03-09 17:46:31,240  INFO  Show the menu for user
+2023-03-09 17:46:33,028  INFO  Show the menu for user
+2023-03-09 17:46:45,522  ERROR  invalid input
+NoneType: None
+2023-03-09 17:46:45,532  INFO  Show the menu for user
+2023-03-09 17:46:46,570  INFO  Show the menu for user
+2023-03-09 17:46:46,875  INFO  Show the menu for user
+2023-03-09 17:46:49,455  INFO  The user hit exit
+2023-03-09 17:49:34,127  INFO  Show the menu for user
+2023-03-09 17:49:47,309  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 17:49:47,309  INFO  Username: abbas is logging
+2023-03-09 17:49:47,309  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 17:49:47,309  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 17:49:48,383  ERROR  invalid input
+NoneType: None
+2023-03-09 17:49:48,391  INFO  Show the menu for user
+2023-03-09 17:49:50,483  INFO  Show the menu for user
+2023-03-09 17:49:52,636  INFO  Show the menu for user
+2023-03-09 17:50:15,036  INFO  creat the short cod
+2023-03-09 17:50:15,043  INFO  The short link has been save
+2023-03-09 17:50:18,987  ERROR  invalid input
+NoneType: None
+2023-03-09 17:50:18,996  INFO  Show the menu for user
+2023-03-09 17:50:21,118  INFO  Show the menu for user
+2023-03-09 17:50:22,644  INFO  Show the menu for user
+2023-03-09 17:50:26,901  INFO  the list shortner show by abbas
+2023-03-09 17:50:32,636  ERROR  invalid input
+NoneType: None
+2023-03-09 17:50:32,645  INFO  Show the menu for user
+2023-03-09 17:50:34,692  INFO  Show the menu for user
+2023-03-09 17:50:39,128  INFO  the list shortner show by abbas
+2023-03-09 17:50:40,760  INFO  Item shortner.ir/as265d remove successful...
+2023-03-09 17:50:42,048  ERROR  invalid input
+NoneType: None
+2023-03-09 17:50:42,057  INFO  Show the menu for user
+2023-03-09 17:51:49,739  INFO  Show the menu for user
+2023-03-09 17:51:52,083  INFO  The user hit exit
+2023-03-09 19:32:05,249  INFO  Show the menu for user
+2023-03-09 19:32:26,135  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 19:32:26,135  INFO  Username: abbas is logging
+2023-03-09 19:32:26,135  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 19:32:26,135  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 19:32:27,281  ERROR  invalid input
+NoneType: None
+2023-03-09 19:32:27,292  INFO  Show the menu for user
+2023-03-09 19:32:29,450  INFO  Show the menu for user
+2023-03-09 19:32:30,733  INFO  Show the menu for user
+2023-03-09 19:32:33,523  INFO  the list shortner show by abbas
+2023-03-09 19:32:36,448  ERROR  invalid input
+NoneType: None
+2023-03-09 19:32:36,457  INFO  Show the menu for user
+2023-03-09 19:32:57,832  ERROR  invalid input
+NoneType: None
+2023-03-09 19:32:57,840  INFO  Show the menu for user
+2023-03-09 19:33:09,736  ERROR  invalid input
+NoneType: None
+2023-03-09 19:33:09,744  INFO  Show the menu for user
+2023-03-09 19:33:17,085  INFO  Link https://www.shortner.ir/RdFR8v show by abbas
+2023-03-09 19:33:25,105  ERROR  invalid input
+NoneType: None
+2023-03-09 19:33:25,113  INFO  Show the menu for user
+2023-03-09 19:33:27,244  INFO  Show the menu for user
+2023-03-09 19:33:28,925  INFO  Show the menu for user
+2023-03-09 19:33:32,184  INFO  The user hit exit
+2023-03-09 19:34:33,438  INFO  Show the menu for user
+2023-03-09 19:34:41,354  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 19:34:41,354  INFO  Username: abbas is logging
+2023-03-09 19:34:41,354  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 19:34:41,354  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 19:34:42,351  ERROR  invalid input
+NoneType: None
+2023-03-09 19:34:42,361  INFO  Show the menu for user
+2023-03-09 19:34:54,821  INFO  Show the menu for user
+2023-03-09 19:34:56,392  INFO  Show the menu for user
+2023-03-09 19:35:02,533  INFO  creat the short cod
+2023-03-09 19:35:02,535  INFO  The short link has been save
+2023-03-09 19:35:19,143  ERROR  invalid input
+NoneType: None
+2023-03-09 19:35:19,152  INFO  Show the menu for user
+2023-03-09 19:35:20,705  INFO  Show the menu for user
+2023-03-09 19:35:24,013  INFO  Show the menu for user
+2023-03-09 19:35:27,037  INFO  the list shortner show by abbas
+2023-03-09 19:35:39,323  ERROR  invalid input
+NoneType: None
+2023-03-09 19:35:39,333  INFO  Show the menu for user
+2023-03-09 19:35:40,891  INFO  Show the menu for user
+2023-03-09 19:35:41,540  INFO  Show the menu for user
+2023-03-09 19:35:43,891  INFO  The user hit exit
+2023-03-09 20:00:20,179  INFO  Show the menu for user
+2023-03-09 20:00:35,212  INFO  the register has been successful...
+2023-03-09 20:00:37,147  ERROR  invalid input
+NoneType: None
+2023-03-09 20:00:37,155  INFO  Show the menu for user
+2023-03-09 20:16:25,856  INFO  Show the menu for user
+2023-03-09 20:16:44,168  INFO  Show the menu for user
+2023-03-09 20:17:36,569  INFO  Show the menu for user
+2023-03-09 20:17:51,407  ERROR  invalid input
+NoneType: None
+2023-03-09 20:17:51,417  INFO  Show the menu for user
+2023-03-09 20:17:52,805  INFO  Show the menu for user
+2023-03-09 20:17:54,113  INFO  Show the menu for user
+2023-03-09 20:18:01,312  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 20:18:01,312  INFO  Username: abbas is logging
+2023-03-09 20:18:01,313  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 20:18:01,313  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 20:18:01,313  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-09 20:18:03,050  ERROR  invalid input
+NoneType: None
+2023-03-09 20:18:03,060  INFO  Show the menu for user
+2023-03-09 20:18:04,588  INFO  Show the menu for user
+2023-03-09 20:18:05,711  INFO  Show the menu for user
+2023-03-09 20:18:08,975  INFO  the list shortner show by abbas
+2023-03-09 20:18:23,927  ERROR  invalid input
+NoneType: None
+2023-03-09 20:18:23,938  INFO  Show the menu for user
+2023-03-09 20:18:35,883  INFO  Show the menu for user
+2023-03-09 20:18:40,292  INFO  Show the menu for user
+2023-03-09 20:18:56,527  INFO  Your cod is very short/long...!!!
+2023-03-09 20:19:39,443  INFO  creat the short cod
+2023-03-09 20:19:39,444  INFO  The short link has been save
+2023-03-09 20:19:44,655  ERROR  invalid input
+NoneType: None
+2023-03-09 20:19:44,667  INFO  Show the menu for user
+2023-03-09 20:19:47,024  INFO  Show the menu for user
+2023-03-09 20:19:48,229  INFO  Show the menu for user
+2023-03-09 20:19:53,179  INFO  the list shortner show by abbas
+2023-03-09 20:20:08,604  ERROR  invalid input
+NoneType: None
+2023-03-09 20:20:08,614  INFO  Show the menu for user
+2023-03-09 20:20:22,739  INFO  Link https://www.shortner.ir/asd235a show by abbas
+2023-03-09 20:20:26,999  ERROR  invalid input
+NoneType: None
+2023-03-09 20:20:27,009  INFO  Show the menu for user
+2023-03-09 20:20:28,637  INFO  Show the menu for user
+2023-03-09 20:20:29,333  INFO  Show the menu for user
+2023-03-09 20:20:33,554  INFO  The user hit exit
+2023-03-09 20:29:05,155  INFO  Show the menu for user
+2023-03-09 20:29:24,110  ERROR  username/password invalid !!! input is:mostafa
+NoneType: None
+2023-03-09 20:29:24,110  ERROR  username/password invalid !!! input is:mostafa
+NoneType: None
+2023-03-09 20:29:24,110  ERROR  username/password invalid !!! input is:mostafa
+NoneType: None
+2023-03-09 20:29:24,110  ERROR  username/password invalid !!! input is:mostafa
+NoneType: None
+2023-03-09 20:29:24,110  INFO  Username: mostafa is logging
+2023-03-09 20:29:25,899  ERROR  invalid input
+NoneType: None
+2023-03-09 20:29:25,910  INFO  Show the menu for user
+2023-03-09 20:29:28,153  INFO  Show the menu for user
+2023-03-09 20:29:37,270  ERROR  invalid input
+NoneType: None
+2023-03-09 20:29:37,280  INFO  Show the menu for user
+2023-03-09 20:29:45,300  INFO  the list shortner show by mostafa
+2023-03-09 20:30:04,368  INFO  Item https://www.shortner.ir/qQHzKG remove successful...
+2023-03-09 20:30:06,663  ERROR  invalid input
+NoneType: None
+2023-03-09 20:30:06,673  INFO  Show the menu for user
+2023-03-09 20:30:08,781  INFO  Show the menu for user
+2023-03-09 20:30:12,550  INFO  the list shortner show by mostafa
+2023-03-09 20:30:25,103  ERROR  invalid input
+NoneType: None
+2023-03-09 20:30:25,112  INFO  Show the menu for user
+2023-03-09 20:30:26,982  INFO  Show the menu for user
+2023-03-09 20:30:28,108  INFO  Show the menu for user
+2023-03-09 20:30:31,115  INFO  The user hit exit
+2023-03-10 01:14:54,063  INFO  Show the menu for user
+2023-03-10 01:15:14,220  INFO  the register has been successful...
+2023-03-10 01:15:23,508  ERROR  invalid input
+NoneType: None
+2023-03-10 01:15:23,518  INFO  Show the menu for user
+2023-03-10 01:15:37,653  ERROR  username/password invalid !!! input is:mostaf
+NoneType: None
+2023-03-10 01:15:37,653  ERROR  username/password invalid !!! input is:mostaf
+NoneType: None
+2023-03-10 01:15:37,653  ERROR  username/password invalid !!! input is:mostaf
+NoneType: None
+2023-03-10 01:15:37,653  ERROR  username/password invalid !!! input is:mostaf
+NoneType: None
+2023-03-10 01:15:37,653  ERROR  username/password invalid !!! input is:mostaf
+NoneType: None
+2023-03-10 01:15:37,654  INFO  Username: mostaf is logging
+2023-03-10 01:15:40,575  ERROR  invalid input
+NoneType: None
+2023-03-10 01:15:40,585  INFO  Show the menu for user
+2023-03-10 01:15:51,104  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-10 01:15:51,104  INFO  Username: abbas is logging
+2023-03-10 01:15:51,104  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-10 01:15:51,104  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-10 01:15:51,104  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-10 01:15:51,105  ERROR  username/password invalid !!! input is:abbas
+NoneType: None
+2023-03-10 01:15:52,091  ERROR  invalid input
+NoneType: None
+2023-03-10 01:15:52,101  INFO  Show the menu for user
+2023-03-10 01:15:53,628  INFO  Show the menu for user
+2023-03-10 01:15:55,890  INFO  Show the menu for user
+2023-03-10 01:16:00,352  ERROR  invalid input
+NoneType: None
+2023-03-10 01:16:00,361  INFO  Show the menu for user
+2023-03-10 01:16:06,440  ERROR  User enter a invalid item
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abbas'
+2023-03-10 01:16:06,453  INFO  Show the menu for user
+2023-03-10 01:16:10,515  INFO  the list shortner show by abbas
+2023-03-10 01:16:14,968  ERROR  invalid input
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abbas'
+2023-03-10 01:16:14,979  INFO  Show the menu for user
+2023-03-10 01:16:38,569  INFO  Link https://www.shortner.ir/gMsFv3 show by abbas
+2023-03-10 01:16:51,099  ERROR  invalid input
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abbas'
+2023-03-10 01:16:51,110  INFO  Show the menu for user
+2023-03-10 01:16:52,958  INFO  Show the menu for user
+2023-03-10 01:16:54,026  INFO  Show the menu for user
+2023-03-10 01:17:07,698  INFO  Show the menu for user
+2023-03-10 01:17:18,964  ERROR  invalid input
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abbas'
+2023-03-10 01:17:18,974  INFO  Show the menu for user
+2023-03-10 01:17:24,701  INFO  the list shortner show by abbas
+2023-03-10 01:17:31,944  ERROR  invalid input
+Traceback (most recent call last):
+  File "D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\core\router.py", line 40, in _get_route
+    index = int(input('\n> ')) - 1
+            ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abbas'
+2023-03-10 01:17:31,956  INFO  Show the menu for user
+2023-03-10 01:17:35,566  INFO  Show the menu for user
+2023-03-10 01:17:39,315  INFO  The user hit exit
+2023-03-10 09:32:34,456  INFO  Show the menu for user
+2023-03-10 09:32:50,569  INFO  Show the menu for user
+2023-03-10 09:54:43,393  INFO  Show the menu for user
+2023-03-10 09:55:02,244  INFO  Show the menu for user
+2023-03-10 09:55:19,211  INFO  Show the menu for user
+2023-03-10 09:56:31,304  INFO  the register has been successful...
+2023-03-10 09:56:34,293  ERROR  invalid input
+NoneType: None
+2023-03-10 09:56:34,307  INFO  Show the menu for user
+2023-03-10 09:56:38,622  INFO  Show the menu for user
+2023-03-10 09:56:40,361  INFO  Show the menu for user
+2023-03-10 09:56:47,199  ERROR  invalid input
+NoneType: None
+2023-03-10 09:56:47,207  INFO  Show the menu for user
+2023-03-10 09:56:48,862  INFO  Show the menu for user
+2023-03-10 09:56:50,011  INFO  Show the menu for user
+2023-03-10 09:56:57,002  INFO  Username: mahdi is logging
+2023-03-10 09:56:58,313  ERROR  invalid input
+NoneType: None
+2023-03-10 09:56:58,323  INFO  Show the menu for user
+2023-03-10 09:57:00,974  INFO  Show the menu for user
+2023-03-10 09:57:02,881  INFO  Show the menu for user
+2023-03-10 09:57:06,165  INFO  the list shortner show by mahdi
+2023-03-10 09:57:10,105  ERROR  invalid input
+NoneType: None
+2023-03-10 09:57:10,113  INFO  Show the menu for user
+2023-03-10 09:57:12,121  INFO  Show the menu for user
+2023-03-10 09:57:16,114  INFO  Show the menu for user
+2023-03-10 09:57:58,614  INFO  creat the short cod
+2023-03-10 09:57:58,615  INFO  The short link has been save
+2023-03-10 09:57:58,616  ERROR  invalid input
+NoneType: None
+2023-03-10 09:57:58,629  INFO  Show the menu for user
+2023-03-10 09:58:11,226  INFO  Show the menu for user
+2023-03-10 09:58:14,886  INFO  Show the menu for user
+2023-03-10 09:58:19,877  INFO  the list shortner show by mahdi
+2023-03-10 09:58:27,260  ERROR  invalid input
+NoneType: None
+2023-03-10 09:58:27,270  INFO  Show the menu for user
+2023-03-10 09:58:35,381  INFO  Link https://www.shortner.ir/7jGiqm show by mahdi
+2023-03-10 09:58:40,233  ERROR  invalid input
+NoneType: None
+2023-03-10 09:58:40,246  INFO  Show the menu for user
+2023-03-10 09:58:41,825  INFO  Show the menu for user
+2023-03-10 09:58:48,594  INFO  the list shortner show by mahdi
+2023-03-10 09:58:51,321  ERROR  invalid input
+NoneType: None
+2023-03-10 09:58:51,332  INFO  Show the menu for user
+2023-03-10 09:58:52,590  INFO  Show the menu for user
+2023-03-10 09:59:00,387  INFO  Username mahdi log out
+2023-03-10 09:59:02,673  ERROR  invalid input
+NoneType: None
+2023-03-10 09:59:02,685  INFO  Show the menu for user
+2023-03-10 09:59:04,342  INFO  Show the menu for user
+2023-03-10 09:59:12,341  ERROR  invalid input
+NoneType: None
+2023-03-10 09:59:12,351  INFO  Show the menu for user
+2023-03-10 09:59:15,779  INFO  Show the menu for user
+2023-03-10 09:59:24,121  INFO  Username: mahdi is logging
+2023-03-10 09:59:25,081  ERROR  invalid input
+NoneType: None
+2023-03-10 09:59:25,091  INFO  Show the menu for user
+2023-03-10 09:59:26,494  INFO  Show the menu for user
+2023-03-10 09:59:31,658  INFO  the list shortner show by mahdi
+2023-03-10 09:59:45,282  INFO  Item https://www.shortner.ir/asd235a remove successful...
+2023-03-10 09:59:46,301  ERROR  invalid input
+NoneType: None
+2023-03-10 09:59:46,312  INFO  Show the menu for user
+2023-03-10 09:59:47,929  INFO  Show the menu for user
+2023-03-10 09:59:51,757  INFO  the list shortner show by mahdi
+2023-03-10 10:00:07,009  ERROR  invalid input
+NoneType: None
+2023-03-10 10:00:07,018  INFO  Show the menu for user
+2023-03-10 10:00:08,605  INFO  Show the menu for user
+2023-03-10 10:00:09,717  INFO  Show the menu for user
+2023-03-10 10:08:29,750  INFO  Show the menu for user
+2023-03-10 11:47:13,797  INFO  Show the menu for user
+2023-03-10 11:47:38,514  INFO  the register has been successful...
+2023-03-10 11:47:40,946  ERROR  invalid input
+NoneType: None
+2023-03-10 11:47:40,958  INFO  Show the menu for user
+2023-03-10 11:53:19,965  INFO  Show the menu for user
+2023-03-10 11:53:40,199  INFO  Show the menu for user
+2023-03-10 11:54:04,315  INFO  Show the menu for user
+2023-03-10 11:54:12,140  INFO  Username: abbas is logging
+2023-03-10 11:54:13,660  ERROR  invalid input
+NoneType: None
+2023-03-10 11:54:13,670  INFO  Show the menu for user
