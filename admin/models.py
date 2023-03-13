@@ -26,5 +26,6 @@ class Users:
 
     @password.setter
     def password(self, new_pass):
-        self.__password = new_pass
+        if 8 < new_pass < 16:
+            self.__password = new_pass
 
