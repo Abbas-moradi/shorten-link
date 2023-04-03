@@ -34,7 +34,7 @@ def remove():
     if Users._login[user_name] != True:
         log_prog.logger_error('The user is not logged in')
         return 'The user is not logged in'
-    path = 'D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\storage\shorten'
+    path = 'storage\shorten'
     with shelve.open(path) as file_short:
         index = 0
         for key, value in file_short.items():
@@ -56,7 +56,7 @@ def show():
     if Users._login[user_name] != True:
         log_prog.logger_error('The user is not logged in')
         return 'The user is not logged in'
-    path = 'D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\storage\shorten'
+    path = 'storage\shorten'
     with shelve.open(path) as file_short:
         index = 0
         for key, value in file_short.items():
