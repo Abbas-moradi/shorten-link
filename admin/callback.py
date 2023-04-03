@@ -13,7 +13,7 @@ def register():
 def login():
     user_name = input('Enter your user name:')
     password = input('Enter your password:')
-    path = 'D:\maktab sharif\week-06-practise\Maktab93-Python-main-02\self project\storage\dbregister'
+    path = 'storage\dbregister'
     with shelve.open(path) as shelf_file:
         for k, v in shelf_file.items():
             if user_name != k and password != v:
